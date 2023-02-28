@@ -54,6 +54,6 @@ public class Main {
 
     public static void task3 () {
         System.out.println("Задача 3");
-        checkDeliveryRules(95);
+        checkDeliveryRules(93);
     }
 }
